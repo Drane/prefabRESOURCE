@@ -1,0 +1,11 @@
+{
+	"LOG" : "*",
+	"logCfg" : {
+		"log" : "white",
+		"debug" : "magenta",
+		"data" : "cyan, bold",
+		"info" : "green",
+		"warn" : "yellow",
+		"error" : "red,bold"
+	}
+}
